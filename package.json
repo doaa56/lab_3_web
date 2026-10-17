@@ -1,0 +1,24 @@
+{
+  "name": "lab_3-web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "first.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doaa56/lab_3_web.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/doaa56/lab_3_web/issues"
+  },
+  "homepage": "https://github.com/doaa56/lab_3_web#readme",
+  "devDependencies": {
+    "typescript": "^7.0.2"
+  }
+}
